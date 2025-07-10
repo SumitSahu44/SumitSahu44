@@ -18,8 +18,6 @@
 </p>
 
 
-<h3 align="left">🔥 GitHub Streak:</h3>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitsahu44&theme=dark" alt="sumitsahu44 streak stats"/>
 </p>
